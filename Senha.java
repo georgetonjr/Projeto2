@@ -1,6 +1,3 @@
-package ProjetoAldo.sample;
-
-
 import java.util.EmptyStackException;
 
 class LinkedIntList{
